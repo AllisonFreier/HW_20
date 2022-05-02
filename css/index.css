@@ -1,0 +1,48 @@
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color:rgb(26, 153, 170);
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
+.cardContainer {
+  margin-bottom: 15px;
+}
+.card {
+  margin: 0 auto;
+  text-align: center;
+}
+.signUp form {
+  margin: 35px auto;
+  background-color: rgba(26, 153, 170, 0.479);
+  padding: 25px;
+  border-radius: 7px;
+  Color: white;
+}
+
+.navbar-brand{
+  Font-weight: 800;
+}
+
+.jumbotron{
+  background-color: rgb(26, 153, 170);
+}
+.display-4{
+  color: #FFFFFF;
+  font-weight:700;
+}
+.lead{
+  color: #FFFFFF;
+}
+
+body{
+  background-color: rgb(245, 226, 204);
+}
+
+.btn-primary{
+  background-color: rgb(26, 153, 170);
+  border-color: rgb(26, 153, 170);
+}
